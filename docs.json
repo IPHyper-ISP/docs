@@ -1,53 +1,171 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
-  "name": "Mintlify Starter Kit",
+  "theme": "luma",
+  "name": "Help Center-IPHyper",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#4088FF",
+    "light": "#4088FF",
+    "dark": "#4088FF"
   },
-  "favicon": "/favicon.svg",
+  "favicon": {
+    "light": "/favicon.svg",
+    "dark": "/favicon.svg"
+  },
   "navigation": {
-    "pages": [
+    "languages": [
       {
-        "group": "Getting Started",
-        "pages": [
-          "index",
-          "quickstart"
+        "language": "en",
+        "tabs": [
+          {
+            "tab": "Guides",
+            "groups": [
+              {
+                "group": "Overview",
+                "pages": [
+                  "zh/index"
+                ]
+              },
+              {
+                "group": "Proxy Settings",
+                "pages": [
+                  {
+                    "group": "ISP(Static Residential)",
+                    "pages": [
+                      "proxy-settings/isp/by-region",
+                      "proxy-settings/isp/by-IP",
+                      "proxy-settings/isp/ip-auto-renewal"
+                    ]
+                  },
+                  {
+                    "group": "Proxy Authentication Management",
+                    "pages": [
+                      "proxy-settings/proxy-authentication-management/ip-whitelist",
+                      "proxy-settings/proxy-authentication-management/sub-user"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Function",
+                "pages": [
+                  "Function/cdkey-generation-redemption",
+                  "Function/referral-program"
+                ]
+              },
+              {
+                "group": "Integrations",
+                "pages": []
+              },
+              {
+                "group": "API Referance",
+                "pages": [
+                  "api-referance/api-referance/sub-user-api"
+                ]
+              }
+            ]
+          },
+          {
+            "tab": "Pricing",
+            "href": "https://www.IPHyper.com/pricing/residential-proxies"
+          },
+          {
+            "tab": "FAQ",
+            "href": "https://www.IPHyper.com/faq"
+          },
+          {
+            "tab": "Support",
+            "href": "https://t.me/IPHyperService"
+          }
+        ]
+      },
+      {
+        "language": "zh",
+        "tabs": [
+          {
+            "tab": "用户指南",
+            "groups": [
+              {
+                "group": "概述",
+                "pages": [
+                  "zh/index/1",
+                  "zh/index/2",
+                  "zh/index/3"
+                ]
+              },
+              {
+                "group": "代理设置",
+                "pages": [
+                  {
+                    "group": "标准静态住宅代理",
+                    "pages": [
+                      "zh/proxy-settings/isp/by-region",
+                      "zh/proxy-settings/isp/by-IP"
+                    ]
+                  },
+                  {
+                    "group": "定制静态住宅代理",
+                    "pages": [
+                      "zh/proxy-settings/proxy-authentication-management/ip-whitelist",
+                      "zh/proxy-settings/proxy-authentication-management/sub-user"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "功能",
+                "pages": [
+                  "zh/Function/cdkey-generation-redemption",
+                  "zh/Function/123",
+                  "zh/Function/321"
+                ]
+              },
+              {
+                "group": "第三方集成",
+                "pages": [
+                  {
+                    "group": "浏览器配置",
+                    "pages": []
+                  },
+                  {
+                    "group": "操作系统",
+                    "pages": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tab": "购买套餐",
+            "href": "https://www.IPHyper.com/zh-CN/pricing/residential-proxies"
+          },
+          {
+            "tab": "直播专线",
+            "href": "https://www.IPHyper.com/zh-CN/faq"
+          },
+          {
+            "tab": "联系客服",
+            "href": "https://t.me/IPHyperService"
+          }
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "dark": "/logo/dark.svg",
+    "href": "https://www.IPHyper.com"
   },
   "navbar": {
     "links": [
       {
-        "label": "Support",
-        "href": "mailto:support@mintlify.com"
+        "href": "https://www.IPHyper.com",
+        "label": "Visit IPHyper"
       }
     ],
     "primary": {
       "type": "button",
       "label": "Dashboard",
-      "href": "https://app.mintlify.com"
+      "href": "https://dashboard.IPHyper.com"
     }
   },
   "contextual": {
@@ -64,9 +182,14 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "x": "https://x.com/IPHyper",
+      "facebook": "https://www.facebook.com/profile.php?id=61578187311505",
+      "youtube": "https://www.youtube.com/@IPHyper",
+      "telegram": "https://t.me/b2_proxy"
     }
+  },
+  "description": "Welcome to the IPHyper Help Center. Find quick answers, troubleshooting guides, and setup tutorials for all your proxy needs.",
+  "seo": {
+    "indexing": "all"
   }
 }
