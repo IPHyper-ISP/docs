@@ -21,9 +21,7 @@
             "groups": [
               {
                 "group": "Overview",
-                "pages": [
-                  "zh/index"
-                ]
+                "pages": []
               },
               {
                 "group": "Proxy Settings",
