@@ -29,15 +29,14 @@
                 "group": "Proxy Settings",
                 "pages": [
                   {
-                    "group": "ISP(Static Residential)",
+                    "group": "Standard ISP Proxies",
                     "pages": [
-                      "proxy-settings/isp/by-region",
                       "proxy-settings/isp/by-IP",
                       "proxy-settings/isp/ip-auto-renewal"
                     ]
                   },
                   {
-                    "group": "Proxy Authentication Management",
+                    "group": "Custom ISP Proxies",
                     "pages": [
                       "proxy-settings/proxy-authentication-management/ip-whitelist",
                       "proxy-settings/proxy-authentication-management/sub-user"
