@@ -54,12 +54,6 @@
               {
                 "group": "Integrations",
                 "pages": []
-              },
-              {
-                "group": "API Referance",
-                "pages": [
-                  "api-referance/api-referance/sub-user-api"
-                ]
               }
             ]
           },
