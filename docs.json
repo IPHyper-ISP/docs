@@ -21,7 +21,11 @@
             "groups": [
               {
                 "group": "Overview",
-                "pages": []
+                "pages": [
+                  "en/index/1",
+                  "en/index/2",
+                  "en/index/3"
+                ]
               },
               {
                 "group": "Proxy Settings",
