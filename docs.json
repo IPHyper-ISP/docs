@@ -22,7 +22,7 @@
               {
                 "group": "Overview",
                 "pages": [
-                  "en/index/1",
+                  "center",
                   "en/index/2",
                   "en/index/3"
                 ]
@@ -179,7 +179,7 @@
       "x": "https://x.com/IPHyper",
       "facebook": "https://www.facebook.com/profile.php?id=61578187311505",
       "youtube": "https://www.youtube.com/@IPHyper",
-      "telegram": "https://t.me/b2_proxy"
+      "telegram": "https://t.me/"
     }
   },
   "description": "Welcome to the IPHyper Help Center. Find quick answers, troubleshooting guides, and setup tutorials for all your proxy needs.",
