@@ -22,7 +22,6 @@
               {
                 "group": "Overview",
                 "pages": [
-                  "index",
                   "index/2",
                   "index/3"
                 ]
