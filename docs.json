@@ -22,7 +22,7 @@
               {
                 "group": "Overview",
                 "pages": [
-                  "center",
+                  "index",
                   "index/2",
                   "index/3"
                 ]
@@ -81,7 +81,7 @@
               {
                 "group": "概述",
                 "pages": [
-                  "zh/center",
+                  "zh/index",
                   "zh/index/2",
                   "zh/index/3"
                 ]
