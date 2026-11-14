@@ -69,6 +69,9 @@
           {
             "tab": "Support",
             "href": "https://t.me/IPHyperService"
+          },
+          {
+            "tab": "FAQ"
           }
         ]
       },
@@ -137,6 +140,9 @@
           {
             "tab": "联系客服",
             "href": "https://t.me/IPHyperService"
+          },
+          {
+            "tab": "常见问题"
           }
         ]
       }
