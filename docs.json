@@ -33,15 +33,15 @@
                   {
                     "group": "Standard ISP Proxies",
                     "pages": [
-                      "proxy-settings/isp/by-IP",
-                      "proxy-settings/isp/ip-auto-renewal"
+                      "proxy-settings/standard-isp/buy-guide",
+                      "proxy-settings/standard-isp/how-to-use"
                     ]
                   },
                   {
                     "group": "Custom ISP Proxies",
                     "pages": [
-                      "proxy-settings/proxy-authentication-management/ip-whitelist",
-                      "proxy-settings/proxy-authentication-management/sub-user"
+                      "proxy-settings/custom-isp/buy-guide",
+                      "proxy-settings/custom-isp/how-to-use"
                     ]
                   }
                 ]
@@ -49,7 +49,7 @@
               {
                 "group": "Function",
                 "pages": [
-                  "Function/cdkey-generation-redemption"
+                  "Function/account-billing"
                 ]
               },
               {
@@ -81,7 +81,7 @@
               {
                 "group": "概述",
                 "pages": [
-                  "zh/index/1",
+                  "zh/center",
                   "zh/index/2",
                   "zh/index/3"
                 ]
@@ -92,15 +92,15 @@
                   {
                     "group": "标准静态住宅代理",
                     "pages": [
-                      "zh/proxy-settings/isp/by-region",
-                      "zh/proxy-settings/isp/by-IP"
+                      "zh/proxy-settings/standard-isp/buy-guide",
+                      "zh/proxy-settings/standard-isp/how-to-use"
                     ]
                   },
                   {
                     "group": "定制静态住宅代理",
                     "pages": [
-                      "zh/proxy-settings/proxy-authentication-management/ip-whitelist",
-                      "zh/proxy-settings/proxy-authentication-management/sub-user"
+                      "zh/proxy-settings/custom-isp/buy-guide",
+                      "zh/proxy-settings/custom-isp/how-to-use"
                     ]
                   }
                 ]
