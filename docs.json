@@ -98,8 +98,8 @@
                   {
                     "group": "定制静态住宅代理",
                     "pages": [
-                      "zh/proxy-settings/custom-isp/buy-guide",
-                      "zh/proxy-settings/custom-isp/how-to-use"
+                      "zh/proxy-settings/custom-isp-proxies/ip-hyper-ip",
+                      "zh/proxy-settings/custom-isp-proxies/ip-hyper-ip-2"
                     ]
                   }
                 ]
