@@ -40,8 +40,8 @@
                   {
                     "group": "Custom ISP Proxies",
                     "pages": [
-                      "proxy-settings/custom-isp/buy-guide",
-                      "proxy-settings/custom-isp/how-to-use"
+                      "proxy-settings/custom-isp-proxies/buying-guide",
+                      "proxy-settings/custom-isp-proxies/how-to-use"
                     ]
                   }
                 ]
@@ -98,8 +98,8 @@
                   {
                     "group": "定制静态住宅代理",
                     "pages": [
-                      "zh/proxy-settings/custom-isp-proxies/ip-hyper-ip",
-                      "zh/proxy-settings/custom-isp-proxies/ip-hyper-ip-2"
+                      "zh/proxy-settings/custom-isp-proxies/buying-guide",
+                      "zh/proxy-settings/custom-isp-proxies/how-to-use"
                     ]
                   }
                 ]
