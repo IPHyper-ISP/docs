@@ -28,7 +28,7 @@
                 ]
               },
               {
-                "group": "Proxy Settings",
+                "group": "IPHyper Proxy Settings",
                 "pages": [
                   {
                     "group": "Standard ISP Proxies",
@@ -86,7 +86,7 @@
                 ]
               },
               {
-                "group": "代理设置",
+                "group": "IPHyper代理设置",
                 "pages": [
                   {
                     "group": "标准静态住宅代理",
