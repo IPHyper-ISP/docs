@@ -91,7 +91,6 @@
                   {
                     "group": "标准静态住宅代理",
                     "pages": [
-                      "zh/proxy-settings/standard-isp/buy-guide",
                       "zh/proxy-settings/standard-isp-proxies/buying-guide",
                       "zh/proxy-settings/standard-isp/how-to-use"
                     ]
