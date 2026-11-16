@@ -33,14 +33,14 @@
                   {
                     "group": "Standard ISP Proxies",
                     "pages": [
-                      "proxy-settings/standard-isp-proxies/buying-guide",
+                      "proxy-settings/standard-isp-proxies/standard-buying-guide",
                       "proxy-settings/standard-isp-proxies/how-to-use"
                     ]
                   },
                   {
                     "group": "Custom ISP Proxies",
                     "pages": [
-                      "proxy-settings/custom-isp-proxies/buying-guide",
+                      "proxy-settings/custom-isp-proxies/custom-buying-guide",
                       "proxy-settings/custom-isp-proxies/how-to-use"
                     ]
                   }
