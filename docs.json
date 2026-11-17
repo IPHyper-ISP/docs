@@ -71,9 +71,7 @@
             "groups": [
               {
                 "group": "home",
-                "pages": [
-                  "zn/FAQ/home"
-                ]
+                "pages": []
               },
               {
                 "group": "Untitled Group",
@@ -154,9 +152,7 @@
             "groups": [
               {
                 "group": "常见问题",
-                "pages": [
-                  "zn/FAQ/home"
-                ]
+                "pages": []
               },
               {
                 "group": "标准静态住宅IP",
