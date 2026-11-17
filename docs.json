@@ -67,7 +67,21 @@
             "href": "https://t.me/iphyper"
           },
           {
-            "tab": "FAQ"
+            "tab": "FAQ",
+            "groups": [
+              {
+                "group": "home",
+                "pages": []
+              },
+              {
+                "group": "Untitled Group",
+                "pages": []
+              },
+              {
+                "group": "Untitled Group",
+                "pages": []
+              }
+            ]
           }
         ]
       },
@@ -134,7 +148,21 @@
             "href": "https://t.me/iphyper"
           },
           {
-            "tab": "常见问题"
+            "tab": "常见问题",
+            "groups": [
+              {
+                "group": "常见问题",
+                "pages": []
+              },
+              {
+                "group": "标准静态住宅IP",
+                "pages": []
+              },
+              {
+                "group": "定制静态住宅IP",
+                "pages": []
+              }
+            ]
           }
         ]
       }
