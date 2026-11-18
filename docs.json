@@ -73,18 +73,8 @@
               {
                 "group": "faq",
                 "pages": [
-                  "FAQ/faq"
-                ]
-              },
-              {
-                "group": "standard-isp-proxy",
-                "pages": [
-                  "FAQ/standard-isp-question"
-                ]
-              },
-              {
-                "group": "custom-isp-proxy",
-                "pages": [
+                  "FAQ/faq",
+                  "FAQ/standard-isp-question",
                   "FAQ/custom-isp-question"
                 ]
               }
@@ -161,18 +151,8 @@
               {
                 "group": "一般问题",
                 "pages": [
-                  "zh/FAQ/faq"
-                ]
-              },
-              {
-                "group": "标准静态住宅IP",
-                "pages": [
-                  "zh/FAQ/standard-isp-question"
-                ]
-              },
-              {
-                "group": "定制静态住宅IP",
-                "pages": [
+                  "zh/FAQ/faq",
+                  "zh/FAQ/standard-isp-question",
                   "zh/FAQ/custom-isp-question"
                 ]
               }
