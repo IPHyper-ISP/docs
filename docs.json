@@ -149,7 +149,7 @@
             "pages": [
               "zh/FAQ/Contents",
               {
-                "group": "一般问题",
+                "group": "问题解答",
                 "pages": [
                   "zh/FAQ/faq",
                   "zh/FAQ/standard-isp-question",
