@@ -70,16 +70,22 @@
             "tab": "FAQ",
             "groups": [
               {
-                "group": "home",
-                "pages": []
+                "group": "faq",
+                "pages": [
+                  "FAQ/faq"
+                ]
               },
               {
-                "group": "Untitled Group",
-                "pages": []
+                "group": "standard-isp-proxy",
+                "pages": [
+                  "FAQ/standard-isp-question"
+                ]
               },
               {
-                "group": "Untitled Group",
-                "pages": []
+                "group": "custom-isp-proxy",
+                "pages": [
+                  "FAQ/custom-isp-question"
+                ]
               }
             ]
           }
@@ -151,16 +157,22 @@
             "tab": "常见问题",
             "groups": [
               {
-                "group": "常见问题",
-                "pages": []
+                "group": "一般问题",
+                "pages": [
+                  "zh/FAQ/faq"
+                ]
               },
               {
                 "group": "标准静态住宅IP",
-                "pages": []
+                "pages": [
+                  "zh/FAQ/standard-isp-question"
+                ]
               },
               {
                 "group": "定制静态住宅IP",
-                "pages": []
+                "pages": [
+                  "zh/FAQ/custom-isp-question"
+                ]
               }
             ]
           }
