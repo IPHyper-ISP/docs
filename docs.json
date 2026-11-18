@@ -70,6 +70,12 @@
             "tab": "FAQ",
             "groups": [
               {
+                "group": "Content",
+                "pages": [
+                  "FAQ/Contents"
+                ]
+              },
+              {
                 "group": "faq",
                 "pages": [
                   "FAQ/faq"
@@ -156,6 +162,12 @@
           {
             "tab": "常见问题",
             "groups": [
+              {
+                "group": "目录",
+                "pages": [
+                  "zh/FAQ/Contents"
+                ]
+              },
               {
                 "group": "一般问题",
                 "pages": [
