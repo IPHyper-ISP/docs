@@ -151,7 +151,7 @@
               {
                 "group": "问题解答",
                 "pages": [
-                  "zh/faq/common-faq",
+                  "zh/faq/general-question",
                   "zh/faq/standard-isp-faq",
                   "zh/faq/custom-isp-faq"
                 ]
