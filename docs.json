@@ -69,13 +69,13 @@
           {
             "tab": "FAQ",
             "pages": [
-              "FAQ",
+              "faq",
               {
                 "group": "Help & Answers",
                 "pages": [
-                  "FAQ/common-faq",
-                  "FAQ/standard-isp-faq",
-                  "FAQ/custom-isp-faq"
+                  "faq/common-faq",
+                  "faq/standard-isp-faq",
+                  "faq/custom-isp-faq"
                 ]
               }
             ]
@@ -147,13 +147,13 @@
           {
             "tab": "常见问题",
             "pages": [
-              "zh/FAQ",
+              "zh/faq",
               {
                 "group": "问题解答",
                 "pages": [
-                  "zh/FAQ/common-faq",
-                  "zh/FAQ/standard-isp-faq",
-                  "zh/FAQ/custom-isp-faq"
+                  "zh/faq/common-faq",
+                  "zh/faq/standard-isp-faq",
+                  "zh/faq/custom-isp-faq"
                 ]
               }
             ]
